@@ -1,0 +1,23 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#00615a",
+  "cssTheme": "",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "headings-hide-hr",
+    "dataview-hide-count",
+    "button-links",
+    "test",
+    "homepage-grid",
+    "statblocks-mobile",
+    "classes-colors",
+    "column-mobile",
+    "table-name"
+  ],
+  "autoFullScreen": false,
+  "floatingNavigation": true,
+  "nativeMenus": false,
+  "showRibbon": true,
+  "showViewHeader": true
+}

@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Zamanora/Pantheon",
+      "color": {
+        "a": 1,
+        "rgb": 11901531
+      }
+    },
+    {
+      "query": "path:Zamanora/Mondo",
+      "color": {
+        "a": 1,
+        "rgb": 8164485
+      }
+    },
+    {
+      "query": "path:\"Places of Power\"",
+      "color": {
+        "a": 1,
+        "rgb": 10368046
+      }
+    },
+    {
+      "query": "path:Zamanora/Luoghi",
+      "color": {
+        "a": 1,
+        "rgb": 7245736
+      }
+    },
+    {
+      "query": "path:Zamanora/Organizzazioni",
+      "color": {
+        "a": 1,
+        "rgb": 5219227
+      }
+    },
+    {
+      "query": "path:Zamanora/Bestiario",
+      "color": {
+        "a": 1,
+        "rgb": 9203624
+      }
+    },
+    {
+      "query": "path:Zamanora/Regole/Spells",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:Zamanora/Regole",
+      "color": {
+        "a": 1,
+        "rgb": 12099924
+      }
+    },
+    {
+      "query": "file:\"Zamanora in 10 minuti\"",
+      "color": {
+        "a": 1,
+        "rgb": 13135935
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2544910134286631,
+  "close": true
+}

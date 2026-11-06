@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .mcm-column-parent-container {
+    display: block !important;
+  }
+
+  .mcm-column-div {
+    width: 100% !important;
+    min-width: unset !important;
+    display: block !important;
+  }
+
+  .mcm-column-spacer {
+    display: none !important;
+  }
+}
